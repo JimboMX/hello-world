@@ -1,8 +1,6 @@
 #include
 int main()
 {
-
-prinf("hello world");
-return 0;
-
+	prinf("hello world v 0.1");
+	return 0;
 }
